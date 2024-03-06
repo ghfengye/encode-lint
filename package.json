@@ -24,6 +24,10 @@
     "publish": "lerna publish",
     "lint": "markdownlint README.md"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghfengye/encode-lint.git"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://npm-registry.vistel.cn/"
