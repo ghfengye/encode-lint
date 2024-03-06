@@ -6,7 +6,7 @@
   "homepage": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "http://registry.npmmirror.com/"
+    "registry": "https://npm-registry.vistel.cn/"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^7.0.2"
