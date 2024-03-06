@@ -1,5 +1,5 @@
 {
-  "name": "markdownlint-config-encode",
+  "name": "@vistel/markdownlint-config-encode",
   "version": "0.0.1",
   "description": "> markdownlint description",
   "author": "mzn <841764743@qq.com>",

@@ -1,5 +1,5 @@
 {
-  "name": "commitlint-config-encode",
+  "name": "@vistel/commitlint-config-encode",
   "version": "0.0.1",
   "description": "commitlint description",
   "author": "mzn <841764743@qq.com>",
