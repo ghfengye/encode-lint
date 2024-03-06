@@ -10,7 +10,8 @@
     "lerna": "^8.1.2",
     "markdownlint": "^0.33.0",
     "markdownlint-cli": "^0.39.0",
-    "rimraf": "^5.0.5"
+    "rimraf": "^5.0.5",
+    "vuepress": "^1.9.10"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
