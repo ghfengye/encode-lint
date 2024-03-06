@@ -1,0 +1,14 @@
+{
+  "name": "commitlint-config-encode",
+  "version": "0.0.0",
+  "description": "commitlint description",
+  "author": "mzn <841764743@qq.com>",
+  "homepage": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://registry.npmmirror.com/"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^7.0.2"
+  }
+}

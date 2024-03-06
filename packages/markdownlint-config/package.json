@@ -1,0 +1,12 @@
+{
+  "name": "markdownlint-config-encode",
+  "version": "0.0.0",
+  "description": "> markdownlint description",
+  "author": "mzn <841764743@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.json",
+  "publishConfig": {
+    "registry": "http://registry.npmmirror.com/"
+  }
+}
