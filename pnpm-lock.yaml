@@ -39,8 +39,6 @@ importers:
         specifier: ^7.0.2
         version: 7.0.2
 
-  packages/eslint-config: {}
-
   packages/markdownlint-config: {}
 
   packages/stylelint-config:
