@@ -8,5 +8,6 @@
   "main": "index.json",
   "publishConfig": {
     "registry": "https://npm-registry.vistel.cn/"
-  }
+  },
+  "gitHead": "e3a18dbd26bf9875ad5b83a041da371eb7448f44"
 }
