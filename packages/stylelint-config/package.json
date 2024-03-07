@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config",
+  "version": "0.0.2",
+  "description": "stylelint description",
+  "author": "mzn <841764743@qq.com>",
+  "homepage": "https://github.com/ghfengye/encode-lint#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghfengye/encode-lint.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "bugs": {
+    "url": "https://github.com/ghfengye/encode-lint/issues"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "stylelint": "^16.2.1",
+    "stylelint-scss": "^6.2.1"
+  }
+}
