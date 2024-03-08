@@ -3,4 +3,4 @@ module.exports = {
     '../index',
     '../rules/typescript',
   ].map(require.resolve),
-}
+};

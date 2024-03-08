@@ -3,4 +3,4 @@ module.exports = {
     '../react',
     '../rules/typescript',
   ].map(require.resolve),
-}
+};
