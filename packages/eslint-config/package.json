@@ -14,7 +14,8 @@
     "url": "git+https://github.com/ghfengye/encode-lint.git"
   },
   "scripts": {
-    "lint": "eslint ./ --fix"
+    "lint": "eslint ./ --fix",
+    "test": "mocha ./__tests__/*.test.js --timeout 5000"
   },
   "bugs": {
     "url": "https://github.com/ghfengye/encode-lint/issues"
