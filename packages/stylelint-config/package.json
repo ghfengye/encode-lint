@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config",
+  "name": "@vistel/stylelint-config",
   "version": "0.0.3",
   "description": "stylelint description",
   "author": "mzn <841764743@qq.com>",

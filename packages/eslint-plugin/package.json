@@ -1,13 +1,13 @@
 {
-  "name": "eslint-plugin",
+  "name": "@vistel/eslint-plugin",
   "version": "0.0.3",
-  "description": "> TODO: description",
+  "description": "eslint-plugin description",
   "author": "mzn <841764743@qq.com>",
   "homepage": "https://github.com/ghfengye/encode-lint#readme",
   "license": "ISC",
   "main": "index.js",
   "publishConfig": {
-    "registry": "http://registry.npmmirror.com/"
+    "registry": "https://npm-registry.vistel.cn/"
   },
   "repository": {
     "type": "git",
