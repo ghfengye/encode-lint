@@ -1,0 +1,31 @@
+{
+  "name": "eslint-plugin",
+  "version": "0.0.3",
+  "description": "> TODO: description",
+  "author": "mzn <841764743@qq.com>",
+  "homepage": "https://github.com/ghfengye/encode-lint#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghfengye/encode-lint.git"
+  },
+  "scripts": {
+    "test": "jest",
+    "prepublishOnly": "npm run test"
+  },
+  "bugs": {
+    "url": "https://github.com/ghfengye/encode-lint/issues"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "29.5.0"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "require-all": "^3.0.0"
+  }
+}
