@@ -7,7 +7,7 @@
   "license": "ISC",
   "main": "index.js",
   "publishConfig": {
-    "registry": "http://registry.npmmirror.com/"
+    "registry": "https://npm-registry.vistel.cn/"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,5 @@
     "stylelint": "14.3.0",
     "stylelint-scss": "4.1.0"
   },
-  "gitHead": "e3a18dbd26bf9875ad5b83a041da371eb7448f44"
+  "gitHead": "35479c219977804858181f2c0bc7d3eb00cd8a8f"
 }
